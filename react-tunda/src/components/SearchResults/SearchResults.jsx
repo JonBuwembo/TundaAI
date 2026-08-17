@@ -1,4 +1,4 @@
-import StoreResult from "./StoreResult";
+import StoreResult from "../StoreResult/StoreResult";
 import React from 'react';
 
 // FAST API will send over this information:

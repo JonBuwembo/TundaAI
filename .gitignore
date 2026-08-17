@@ -13,10 +13,10 @@ __pycache__/
 *$py.class
 *.so
 
-.venv/
-venv/
-env/
-ENV/
+.mytundavenv/
+mytundavenv/
+mytundavenv/
+MYTUNDAVENV/
 
 .pytest_cache/
 .mypy_cache/

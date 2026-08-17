@@ -4,8 +4,9 @@ const SearchBar = () => {
 
     
     return (
-        <div>
+        <div className="search-bar">
             <input
+                className="search-input"
                 type="text"
                 placeholder="What are you looking for?"
             />

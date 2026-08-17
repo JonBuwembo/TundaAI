@@ -1,0 +1,15 @@
+.text-center {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.hidden {
+    display: none;
+}
+
+.width-full {
+    width: 100%;
+}
